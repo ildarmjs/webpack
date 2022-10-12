@@ -12,3 +12,4 @@ $ cd webpack/
 $ npm i
 $ npm run start
 ```
+### Откройте http://localhost:8080 , чтобы просмотреть его в браузере.
